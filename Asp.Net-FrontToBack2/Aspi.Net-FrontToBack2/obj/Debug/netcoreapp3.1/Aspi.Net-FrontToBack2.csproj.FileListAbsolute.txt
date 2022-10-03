@@ -1,0 +1,118 @@
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.exe
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.deps.json
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.runtimeconfig.json
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.runtimeconfig.dev.json
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.dll
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.pdb
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.dll
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.pdb
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.AssemblyReference.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.AssemblyInfoInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.AssemblyInfo.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.CoreCompileInputs.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorAssemblyInfo.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorAssemblyInfo.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\staticwebassets\Aspi.Net-FrontToBack2.StaticWebAssets.Manifest.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\staticwebassets\Aspi.Net-FrontToBack2.StaticWebAssets.xml
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Aspi.Net-FrontToBack2.styles.css
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.TagHelpers.input.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.TagHelpers.output.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorCoreGenerate.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorTargetAssemblyInfo.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorTargetAssemblyInfo.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.pdb
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.dll
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.pdb
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.genruntimeconfig.cache
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.CopyComplete
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Pricing\Index.cshtml.g.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\WorkSingle\Index.cshtml.g.cs
+C:\Users\ESQIN\OneDrive\İş masası\Aspi.Net\Aspi.Net-Front-To-Back2\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Work\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.StaticWebAssets.xml
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.exe
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.deps.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.runtimeconfig.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.dll
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.pdb
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.dll
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.pdb
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\staticwebassets\Aspi.Net-FrontToBack2.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.TagHelpers.input.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.TagHelpers.output.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Pricing\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\WorkSingle\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Work\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.pdb
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.dll
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.pdb
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.genruntimeconfig.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Aspi.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.CopyComplete
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.StaticWebAssets.xml
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.exe
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.deps.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.runtimeconfig.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.dll
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.pdb
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.dll
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\bin\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.pdb
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.AssemblyInfo.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\staticwebassets\Aspi.Net-FrontToBack2.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.TagHelpers.input.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.TagHelpers.output.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorCoreGenerate.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Pricing\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\WorkSingle\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\Work\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.RazorTargetAssemblyInfo.cs
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.Views.pdb
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.dll
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.pdb
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.genruntimeconfig.cache
+C:\Users\hp\Desktop\Asp.Net-FrontToBack\Asp.Net-FrontToBack2\Aspi.Net-FrontToBack2\obj\Debug\netcoreapp3.1\Aspi.Net-FrontToBack2.csproj.CopyComplete
